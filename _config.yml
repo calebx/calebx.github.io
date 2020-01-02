@@ -16,7 +16,7 @@
 title: 番姜阁
 email: caleb.xiang@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  番姜阁 · 程序员胡说八道 · 西域曼陀罗照片小册
+  翻江倒海 · 程序员胡说八道 · 西域曼陀罗小册
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://calebx.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: calebxiang
