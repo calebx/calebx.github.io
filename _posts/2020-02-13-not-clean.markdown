@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "静一静"
+date:   2020-02-13 23:28:00 +0800
+categories: m7 cleanup
+---
+
+![](https://cxiang.oss-cn-hangzhou.aliyuncs.com/photo/682936bcf9aa4251.jpg)
